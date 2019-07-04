@@ -1,0 +1,8 @@
+{
+“name”: “greeter-bot”,
+“version”: “1.0.0”,
+“description”: “This bot makes some fun”,
+“main”: “bot.js”,
+“author”: “Storm_Breaker”,
+“dependencies”: {}
+}
